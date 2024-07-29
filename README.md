@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Github Stats
+
+[![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenn111)](https://github.com/jenn111/github-readme-stats)
