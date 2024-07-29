@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![SDET GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWphaTgyYmRnb3loM21rcDgwODUxNjVkYnhqbDgxcjhyZndkcG53YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duL28c2tptZ0zAopCf/giphy.gif)
+
 ### My Github Stats
 
 [![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenn111)](https://github.com/jenn111/github-readme-stats)
+
+
+
